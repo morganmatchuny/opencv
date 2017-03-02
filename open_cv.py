@@ -1,6 +1,6 @@
 import sys
 from PIL import Image, ImageDraw
-import cv2
+import cv
 
 def main():
     img= Image.open('example.jpg')
